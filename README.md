@@ -8,7 +8,7 @@ The Week 1 script:
 - Combines all monthly files into master listing and sold datasets.
 - Filters both datasets to include only Residential properties.
 - Saves the cleaned datasets as `listings.csv` and `sold.csv`.
-- Prints row counts before and after filtering for verification.
+- Prints the number of records before and after filtering to verify the data processing steps
 
 ### Technologies Used
 
