@@ -16,3 +16,25 @@ The Week 1 script:
 - Pandas
 - Glob
 - OS
+
+## Week 2 – Exploratory Data Analysis (EDA)
+
+The Week 2 script:
+
+- Loads the cleaned `listings.csv` and `sold.csv` datasets from Week 1.
+- Displays the number of rows and columns in each dataset.
+- Reviews the data types of every column.
+- Calculates missing value counts and percentages for each column.
+- Identifies columns with more than 90% missing values.
+- Removes highly incomplete columns from both datasets.
+- Generates summary statistics for key housing market variables.
+- Saves the cleaned datasets as `listings_cleaned.csv` and `sold_cleaned.csv`.
+
+### Technologies Used
+
+- Python 3
+- Pandas
+- Glob
+- OS
+- Spyder IDE
+- Git & GitHub
