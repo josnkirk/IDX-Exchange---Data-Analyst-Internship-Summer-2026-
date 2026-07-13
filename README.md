@@ -38,3 +38,15 @@ The Week 2 script:
 - OS
 - Spyder IDE
 - Git & GitHub
+
+## Week 3 – Mortgage Rate Enrichment
+
+The Week 3 script:
+
+- Loads the cleaned Listings and Sold datasets.
+- Downloads 30-year fixed mortgage rate data from the Federal Reserve (FRED).
+- Converts weekly mortgage rates into monthly averages.
+- Creates a year-month key for each MLS dataset.
+- Merges monthly mortgage rates into both datasets.
+- Validates the merge by confirming no missing mortgage rates.
+- Saves enriched datasets for future analysis.
